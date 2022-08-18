@@ -7,3 +7,4 @@ public interface Action {
     void call(Animal animal, Commands command);
 
 }
+
